@@ -1,0 +1,3 @@
+This is the info in demofile3.txt
+
+it contains stuff for file 3 of the demo only.
