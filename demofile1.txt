@@ -1,0 +1,2 @@
+This is demofile1.  This contains stuff
+only for the demofile number one.
